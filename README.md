@@ -10,6 +10,7 @@ yang tidak sedikit.
 ```
 python main.py --username {username_github} --iterasi {jumlah_iterasi}
 ```
+atau
 ```
 python main.py -U {username_github} -I {jumlah_iterasi}
 ```
@@ -23,6 +24,7 @@ isi {jumlah_iterasi} sesuai kebutuhan kalian
 ```
 python main.py --username {username_github}
 ```
+atau
 ```
 python main.py -U {username_github}
 ```
@@ -43,4 +45,4 @@ serta iterasi akan default di set ke 10
 </details>
 
 ## PEMBUAT
-Pake nanya.. kontak saya: [0xd1m5@gmail.com](mailto:0xd1m5@gmail.com)
+Pake Nanya Lagi.. [Klik Sini](mailto:0xd1m5@gmail.com)
