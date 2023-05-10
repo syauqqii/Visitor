@@ -56,7 +56,7 @@ python main.py --username syauqqii
 
 <h1> </h1>
 
-#### Cara ke-3
+#### Cara ke-3 (beserta contoh penggunaan langsung)
 ```
 python main.py
 ```
