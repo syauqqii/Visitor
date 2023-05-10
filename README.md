@@ -1,7 +1,7 @@
 ## TUJUAN
   Untuk memanipulasi jumlah pengunjung pada badge visitor di halaman GitHub
 penerapan dengan menggunakan python serta didasari dengan konsep multithreading
-supaya dapat menghemat waktu (lebih efektis & efisien) meskipun memakan resources
+supaya dapat menghemat waktu (lebih efektif & efisien) meskipun memakan resources
 yang tidak sedikit.
 
 ## PENGGUNAAN
