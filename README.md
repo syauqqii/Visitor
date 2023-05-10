@@ -1,10 +1,10 @@
-## Tujuan:
+## TUJUAN
   Untuk memanipulasi jumlah pengunjung pada badge visitor di halaman GitHub
 penerapan dengan menggunakan python serta didasari dengan konsep multithreading
 supaya dapat menghemat waktu (lebih efektis & efisien) meskipun memakan resources
 yang tidak sedikit.
 
-## Cara Penggunaan:
+## PENGGUNAAN
 <details open>
 <summary>Cara ke-1</summary>
 ```
@@ -42,5 +42,5 @@ maka username di set dengan username pembuat 'syauqqii'
 serta iterasi akan default di set ke 10
 </details>
 
-## Pembuat
+## PEMBUAT
 Pake nanya.. kontak saya: [0xd1m5@gmail.com](mailto:0xd1m5@gmail.com)
