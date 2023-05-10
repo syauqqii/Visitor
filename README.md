@@ -5,7 +5,7 @@ supaya dapat menghemat waktu (lebih efektis & efisien) meskipun memakan resource
 yang tidak sedikit.
 
 ## PENGGUNAAN
-<summary>Cara ke-1</summary>
+#### Cara ke-1
 ```
 python main.py --username {username_github} --iterasi {jumlah_iterasi}
 ```
@@ -16,7 +16,7 @@ isi {username_github} dengan username github kalian
 isi {jumlah_iterasi} sesuai kebutuhan kalian
   -> iterasi berarti berapa kali program dijalankan
 
-<summary>Cara ke-2</summary>
+#### Cara ke-2
 ```
 python main.py --username {username_github}
 ```
@@ -28,7 +28,7 @@ isi {username_github} dengan username github kalian
 disini kita tidak mengisi argument jumlah_iterasi,
 maka secara default iterasi akan di set ke 10
 
-<summary>Cara ke-3</summary>
+#### Cara ke-3
 ```
 python main.py
 ```
