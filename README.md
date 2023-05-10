@@ -4,6 +4,20 @@ penerapan dengan menggunakan python serta didasari dengan konsep multithreading
 supaya dapat menghemat waktu (lebih efektif & efisien) meskipun memakan resources
 yang tidak sedikit.
 
+## INSTAL PROGRAM
+#### Kita clone dulu repo ini ke local pc kita
+```
+git clone https://github.com/syauqqii/Visitor
+```
+#### Masuk ke folder Visitor
+```
+cd Visitor
+```
+#### Download beberapa library yang dibutuhkan
+```
+pip install requests / pip3 install requests
+```
+
 ## PENGGUNAAN
 #### Cara ke-1
 ```
