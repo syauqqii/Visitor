@@ -49,6 +49,11 @@ isi {username_github} dengan username github kalian
 disini kita tidak mengisi argument jumlah_iterasi,
 maka secara default iterasi akan di set ke 10
 
+#### Contoh ke-2
+```
+python main.py --username syauqqii
+```
+
 <h1> </h1>
 
 #### Cara ke-3
