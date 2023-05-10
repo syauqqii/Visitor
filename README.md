@@ -29,6 +29,7 @@ python main.py -U {username_github} -I {jumlah_iterasi}
 isi {username_github} dengan username github kalian
 isi {jumlah_iterasi} sesuai kebutuhan kalian
   -> iterasi berarti berapa kali program dijalankan
+  
 #### Contoh ke-1
 ```
 python main.py --username syauqqii --iterasi 15
