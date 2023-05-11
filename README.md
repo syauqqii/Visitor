@@ -68,4 +68,4 @@ maka username di set dengan username pembuat 'syauqqii'
 serta iterasi akan default di set ke 10
 
 ## PEMBUAT
-Pake Nanya Lagi.. [Klik Sini](mailto:0xd1m5@gmail.com)
+Pake Nanya.. [Klik Sini](mailto:0xd1m5@gmail.com)
