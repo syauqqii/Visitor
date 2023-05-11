@@ -17,7 +17,7 @@ def GetURL(url):
 
 if __name__ == "__main__":
 	try:
-		parser = ArgumentParser(description='Increase Visitor GitHub Badge')
+		parser = ArgumentParser(description='Menambah jumlah pengunjung di badge github')
 
 		parser.add_argument('-U', '--username', dest='username', type=str, help='Username GitHub kalian.')
 		parser.add_argument('-I', '--iterasi', dest='iterasi', type=int, help='Iterasi untuk perulangan berapa x program diulang.')
