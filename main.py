@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from os import system
+from os import system, name
 from requests import get
 from threading import Thread
 from time import time
@@ -15,6 +15,14 @@ def GetURL(url):
 	else:
 		FlagReject += 1
 
+def ClearScreen():
+	if name == "posix":
+		system("clear")
+	elif name == "nt":
+		system("cls")
+	else:
+		return
+		
 if __name__ == "__main__":
 	try:
 		parser = ArgumentParser(description='Menambah jumlah pengunjung di badge github')
@@ -43,7 +51,7 @@ if __name__ == "__main__":
 			for thread in TempThread:
 				thread.join()
 
-			system("cls||clear")
+			ClearScreen()
 
 			print(f"\n > Iterasi: [{i+1}/{args.iterasi}] | Username: {args.username}\n")
 			print(f"   Berhasil Terkirim : {FlagOK}")
