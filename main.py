@@ -16,10 +16,10 @@ def GetURL(url):
 		FlagReject += 1
 
 def ClearScreen():
-	if name == "posix":
-		system("clear")
-	elif name == "nt":
+	if name == "nt":
 		system("cls")
+	elif name == "posix":
+		system("clear")
 	else:
 		return
 		
