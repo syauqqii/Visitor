@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 			ClearScreen()
 
-			print(f"\n > Iterasi: [{i+1}/{args.iterasi}] | Username: {args.username}\n")
+			print(f"\n > Iterasi: [{i+1}/{args.iterasi}] | Username GitHub: @{args.username}\n")
 			print(f"   Berhasil Terkirim : {FlagOK}")
 			print(f"   Gagal Terkirim    : {FlagReject}")
 			TempThread.clear()
