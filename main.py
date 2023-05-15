@@ -8,7 +8,8 @@ FlagOK     = 0
 FlagReject = 0
 
 def GetURL(url):
-	global FlagOK, FlagReject
+	global FlagOK
+	global FlagReject
 	response = get(url)
 	if response.status_code == 200:
 		FlagOK += 1
