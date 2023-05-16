@@ -4,12 +4,12 @@ from requests import get
 from threading import Thread
 from time import time
 
-FlagOK     = 0
 FlagReject = 0
+FlagOK     = 0
 
 def GetURL(url):
-	global FlagOK
 	global FlagReject
+	global FlagOK
 	response = get(url)
 	if response.status_code == 200:
 		FlagOK += 1
